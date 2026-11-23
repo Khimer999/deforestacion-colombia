@@ -39,7 +39,7 @@ Para generar los enlaces de la comparación visual y calcular el área estimada 
 
 | Archivo | Función |
 | --- | --- |
-| [PrimeraPrueba.py](PrimeraPrueba.py) | Prueba inicial de conexión. Su última línea tiene un paréntesis sin cerrar. Usa `SegundaPrueba.py` para comprobar la conexión. |
+| [PrimeraPrueba.py](PrimeraPrueba.py) | Prueba inicial de configuración de Google Earth Engine. |
 | [SegundaPrueba.py](SegundaPrueba.py) | Consulta imágenes de 2024 y muestra el identificador de la escena seleccionada. |
 | [TerceraPrueba.py](TerceraPrueba.py) | Genera un enlace a una imagen de 2024 en color natural. |
 | [CuartaPrueba.py](CuartaPrueba.py) | Genera un enlace al mapa del índice de vegetación de 2024. |
